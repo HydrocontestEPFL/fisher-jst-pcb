@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name fisher)(type KiCad)(uri $KIPRJMOD/../fisher.pretty)(options "")(descr ""))
+  (lib (name jstpa)(type KiCad)(uri $KIPRJMOD/../jstpa.pretty)(options "")(descr ""))
+)

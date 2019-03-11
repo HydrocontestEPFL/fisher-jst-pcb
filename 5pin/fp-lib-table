@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name fisher)(type KiCad)(uri /home/antoinealb/hydrocontest_connectors/fisher.pretty)(options "")(descr ""))
+  (lib (name jsetpa)(type KiCad)(uri $KIPRJMOD/../jstpa.pretty)(options "")(descr ""))
+)
