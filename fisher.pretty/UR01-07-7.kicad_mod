@@ -1,4 +1,4 @@
-(module CPA_6 (layer F.Cu) (tedit 5C86D0E2)
+(module CPA_6 (layer F.Cu) (tedit 5C8FC2AE)
   (fp_text reference REF** (at 0 -4) (layer F.SilkS)
     (effects (font (size 1.2 1.2) (thickness 0.15)))
   )
@@ -14,4 +14,5 @@
   (pad 6 thru_hole oval (at 1.299038 0.75) (size 1.1 1.1) (drill 0.6) (layers *.Cu *.Mask))
   (pad 7 thru_hole oval (at 1.299038 -0.75) (size 1.1 1.1) (drill 0.6) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 1.1 1.1) (drill 0.6) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0 -5.5) (size 0.85 0.85) (drill 0.85) (layers *.Cu *.Mask))
 )

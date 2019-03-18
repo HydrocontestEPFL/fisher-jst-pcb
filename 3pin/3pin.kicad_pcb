@@ -177,7 +177,7 @@
   (gr_text 3 (at 153 104.75) (layer F.SilkS) (tstamp 5C86B7C7)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text 2 (at 144.5 103) (layer F.SilkS) (tstamp 5C86B75E)
+  (gr_text 2 (at 145 100.4) (layer F.SilkS) (tstamp 5C86B75E)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text 1 (at 152 99.5) (layer F.SilkS)
