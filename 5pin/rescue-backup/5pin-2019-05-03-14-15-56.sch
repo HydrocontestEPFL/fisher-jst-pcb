@@ -1,10 +1,6 @@
-EESchema Schematic File Version 4
-LIBS:power
-LIBS:device
-LIBS:74xx
-LIBS:audio
-LIBS:interface
-EELAYER 26 0
+EESchema Schematic File Version 2
+
+EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -19,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Fischer:Ultim_07-05 J1
+L Conn_01x05 J1
 U 1 1 5C86CBA2
 P 4350 2200
 F 0 "J1" H 4350 2500 50  0000 C CNN
@@ -30,14 +26,14 @@ F 3 "" H 4350 2200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Fischer:Ultim_07-05 J2
+L Conn_01x05 J2
 U 1 1 5C86CBC0
-P 4250 3050
-F 0 "J2" H 4250 3350 50  0000 C CNN
-F 1 "UR01-07-5" H 4700 3150 50  0000 C CNN
-F 2 "fisher:UR01-07-5" H 4250 3050 50  0001 C CNN
-F 3 "" H 4250 3050 50  0001 C CNN
-	1    4250 3050
+P 4350 3150
+F 0 "J2" H 4350 3450 50  0000 C CNN
+F 1 "UR01-07-5" H 4350 2850 50  0000 C CNN
+F 2 "fisher:UR01-07-5" H 4350 3150 50  0001 C CNN
+F 3 "" H 4350 3150 50  0001 C CNN
+	1    4350 3150
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
