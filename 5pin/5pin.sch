@@ -1,37 +1,10 @@
-EESchema Schematic File Version 2
+EESchema Schematic File Version 4
 LIBS:power
 LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
 LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
 LIBS:audio
 LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -51,7 +24,7 @@ U 1 1 5C86CBA2
 P 4350 2200
 F 0 "J1" H 4350 2500 50  0000 C CNN
 F 1 "B05B-PASK-1(LF)(SN) " H 4350 1900 50  0000 C CNN
-F 2 "jsetpa: B05B-PASK-1(LF)(SN)" H 4350 2200 50  0001 C CNN
+F 2 "jsetpa:B05B-PASK-1(LF)(SN)" H 4350 2200 50  0001 C CNN
 F 3 "" H 4350 2200 50  0001 C CNN
 	1    4350 2200
 	1    0    0    -1  
